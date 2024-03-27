@@ -2,8 +2,8 @@ function saludar(nombre) {
   return `Hola ${nombre}!`;
 }
 
-function saludarHelloWorld(nombre) {
-  return `Hello World!, ${nombre}`;
+function saludarHelloWorld() {
+  return `Hello World!`;
 }
 
 // Exportar funciones
